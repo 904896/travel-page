@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+}
+
+.left-side {
+  width: 50%;
+  padding: 20px;
+}
+
+.right-side {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+.dare {
+  font-family: Barlow;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 77px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.search {
+  height: 48px;
+  width: 48px;
+  left: 367px;
+  top: 0px;
+  border-radius: 0px;
+}

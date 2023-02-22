@@ -1,0 +1,61 @@
+.bg-container {
+  height: 560 px;
+  width: 1170 px;
+  left: 135 px;
+  top: 3206 px;
+  border-radius: 0 px;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  padding: 20 px;
+}
+.heading-section {
+  text-align: center;
+}
+.button-tour {
+  height: 60px;
+  width: 156px;
+  left: 260px;
+  top: 202px;
+  border-radius: 45px;
+  padding: 18px 24px 18px 24px;
+
+  display: block;
+  height: 60 px;
+  width: 156 px;
+  left: 260 px;
+  top: 202 px;
+  border-radius: 45 px;
+  padding: 18 px 24 px 18 px 24 px;
+
+  background-color: #e61c5d;
+}
+.parent-container {
+  height: 10 px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.price-dollar {
+  height: 26 px;
+  width: 41 px;
+  left: 0 px;
+  top: 32 px;
+  border-radius: nullpx;
+  color: #e61c5d;
+}
+.card-container-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30 px;
+}
+.tourism-container {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  width: 25%;
+}

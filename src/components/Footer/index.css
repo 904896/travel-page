@@ -1,0 +1,19 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.grid-item {
+  text-align: center;
+}
+.ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.icons {
+  padding: 10px;
+}
